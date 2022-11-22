@@ -1,0 +1,6 @@
+Vase krestni jmeno je: Jan
+Vase prijmeni je: Glogr
+Vase vyska je: 180
+Vase hmotnost je: 75
+Vas vek je: 23
+Vase vzdelani je VS 

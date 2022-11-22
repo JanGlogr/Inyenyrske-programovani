@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1668525666 source:/home/osboxes/Desktop/Program/Cviceni_2/main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+	<string>
+
